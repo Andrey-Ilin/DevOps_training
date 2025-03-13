@@ -1,2 +1,2 @@
-# DevOps_training
-Comprehensive hands-on DevOps training covering CI/CD, Infrastructure as Code, containers, and monitoring. Includes practical exercises with Docker, Kubernetes, Jenkins, and Terraform. Progress from basics to advanced implementations with real-world scenarios.
+# Code review
+Reviewing even the largest pull requests can be a manageable, straightforward process if you are able to evaluate changes on a commit-by-commit basis. Each of the guidelines detailed earlier focuses on making the commits readable; to extract information from commits, you can use the guidelines as a template.
